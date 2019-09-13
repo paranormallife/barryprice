@@ -1,0 +1,11 @@
+[19-Sep-2018 14:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/price05/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/price05/public_html/wp-includes/locale.php on line 10
+[01-Dec-2018 01:36:39 UTC] PHP Fatal error:  Class 'Walker' not found in /home/price05/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[15-Dec-2018 05:35:28 UTC] PHP Fatal error:  Class 'Walker' not found in /home/price05/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[31-Jan-2019 21:09:11 UTC] PHP Fatal error:  Class 'Walker' not found in /home/price05/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[27-Feb-2019 02:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/price05/public_html/wp-includes/locale.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/price05/public_html/wp-includes/locale.php on line 10

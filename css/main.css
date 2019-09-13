@@ -1,0 +1,211 @@
+body {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #000000;
+}
+
+td {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+}
+
+th {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+}
+
+.bodyTitle {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	padding-top: 25px;
+}
+
+.bodyHead {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+}
+
+.buttonForm {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	padding-left: 44px;
+	padding-right: 25px;
+}
+
+.bodyText {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	padding-left: 44px;
+	padding-right: 25px;
+}a.bodyText:link {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	text-decoration: underline;
+}a.bodyText:visited {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	text-decoration: underline;
+}a.bodyText:hover {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.bodyTextLink {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+}a.bodyTextLink:link {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	text-decoration: underline;
+}a.bodyTextLink:visited {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	text-decoration: underline;
+}a.bodyTextLink:hover {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #B9B7B7;
+	font-size: 8pt;
+	font-style: none;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.bodyTextDark {
+	font-family: Verdana, Arial, Geneva, helvetica, sans-serif;
+	color: #333333;
+	font-size: 10pt;
+	font-style: none;
+	font-weight: normal;
+	line-height: 13pt;
+}
+
+.formText {
+	font-family: Arial, Verdana, Geneva, helvetica, sans-serif;
+	color: #333333;
+	font-size: 10pt;
+	font-style: none;
+	font-weight: normal;
+	padding-right: 5px;
+	padding-left: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.formTextRed {
+	font-family: Arial, Verdana, Geneva, helvetica, sans-serif;
+	color: #ff0000;
+	font-size: 10pt;
+	font-style: none;
+	font-weight: normal;
+	padding-right: 5px;
+	padding-left: 2px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.dataTextWhite {
+	font-family: Arial, Verdana, Geneva, helvetica, sans-serif;
+	color: #ffffff;
+	font-size: 9pt;
+	font-style: none;
+	font-weight: bold;
+}
+
+.dataText {
+	font-family: Arial, Verdana, Geneva, helvetica, sans-serif;
+	color: #666666;
+	font-size: 9pt;
+	font-style: none;
+	font-weight: normal;
+}a.dataText:link {
+	font-family: Arial, Verdana, Geneva, helvetica, sans-serif;
+	color: #666666;
+	font-size: 9pt;
+	font-style: none;
+	font-weight: bold;
+	text-decoration: underline;
+}a.dataText:visited {
+	font-family: Arial, Verdana, Geneva, helvetica, sans-serif;
+	color: #666666;
+	font-size: 9pt;
+	font-style: none;
+	font-weight: bold;
+	text-decoration: underline;
+}a.dataText:hover {
+	font-family: Arial, Verdana, Geneva, helvetica, sans-serif;
+	color: #666666;
+	font-size: 9pt;
+	font-style: none;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.clear-both	{
+	clear: both;
+}
+
+.hidden	{
+	visibility: hidden;
+  width: 1000px;
+  overflow: hidden;
+ }
+
+#image_category_links	{
+	position: relative;
+  float: left;
+  width: 50%;
+  margin-top: -20px;
+}
+
+#pdf_links	{
+	position: relative;
+  float: left;
+  width: 50%;
+  margin-top: -20px;
+}
+
+#contact_info	{
+	position: relative;
+  float: left;
+  width: 50%;
+  margin-top: -20px;
+}
+
+#site_links	{
+	position: relative;
+  float: left;
+  width: 50%;
+  margin-top: -20px;
+}

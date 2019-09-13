@@ -1,0 +1,4 @@
+[28-Apr-2018 09:25:55 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /tmp/sess_ab233b682ec355648e7891e66c54191b on line 1123
+[28-Apr-2018 09:28:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /tmp/sess_7ce3284b743aefde80ffd9aec500e085 on line 1123
+[28-Apr-2018 09:28:50 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /tmp/sess_ba3866600c3540f67c1e9575e213be0a on line 1123
+[28-Apr-2018 09:28:51 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /tmp/sess_555d6702c950ecb729a966504af0a635 on line 1123

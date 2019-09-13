@@ -1,0 +1,24 @@
+body { margin: 0; }
+div.block-wrap { max-width: 2000px; width: 100%; margin: 0 auto; text-align: center;}
+
+.hidden { display: none; }
+
+.one-block {
+  display: inline-block;
+  width: 49%;
+  margin-left: -4px;
+  margin-top: -4px;
+}
+
+
+.one-block img { max-width: 100%; height: auto; position: relative; }
+
+.one-block:hover img.initial { display: none;}
+.one-block:hover img.hidden { display: block; }
+
+@media screen and (max-width: 768px) {
+	.one-block { width: 100%; margin-left: 0; }
+	.one-block img.initial { display: none; }
+	.one-block img.hidden { display: block; }
+	
+}

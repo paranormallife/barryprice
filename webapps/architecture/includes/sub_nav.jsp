@@ -1,0 +1,8 @@
+<!--Sub Navigation-->
+			<td align="left" valign="top" colspan="2"><a href="../index.jsp" target="_self" onmouseover="document.home.src='images/int-home-on-47x27.gif';" onmouseout="document.home.src='images/int-home-off-47x27.gif';"><img name="home" src="images/int-home-off-47x27.gif" width="47" height="27" border="0" alt="Home"></td>
+			<td align="left" valign="top" colspan="2"><a href="1_1_studio.jsp" target="_self" onmouseover="document.studio.src='images/int-studio-on-61x27.gif';" onmouseout="document.studio.src='images/int-studio-off-61x27.gif';"><img name="studio" src="images/int-studio-<% if(intSection == 1) {out.print("on");} else {%>off<%}%>-61x27.gif" width="61" height="27" border="0" alt="Studio"></a></td>
+			<td align="left" valign="top" colspan="2"><a href="2_1_approach.jsp" target="_self" onmouseover="document.approach.src='images/int-approach-on-83x27.gif';" onmouseout="document.approach.src='images/int-approach-off-83x27.gif';"><img name="approach" src="images/int-approach-<% if(intSection == 2) {out.print("on");} else {%>off<%}%>-83x27.gif" width="83" height="27" border="0" alt="Approach"></a></td>
+			<td align="left" valign="top"><a href="3_1_style.jsp" target="_self" onmouseover="document.style.src='images/int-style-on-57x27.gif';" onmouseout="document.style.src='images/int-style-off-57x27.gif';"><img name="style" src="images/int-style-<% if(intSection == 3) {out.print("on");} else {%>off<%}%>-57x27.gif" width="57" height="27" border="0" alt="Style"></a></td>
+<!--End Sub Nav-->
+							
+							
